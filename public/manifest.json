@@ -2,7 +2,7 @@
   "name": "Sudoku Master",
   "short_name": "Sudoku",
   "description": "A polished 9x9 Sudoku game with 5 difficulty levels.",
-  "start_url": "/",
+  "start_url": "/sudoku/",
   "display": "standalone",
   "background_color": "#f5f5f5",
   "theme_color": "#2563eb",
