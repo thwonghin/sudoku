@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800;900&display=swap');
+@import "tailwindcss";
+
+@theme {
+  --font-sans: "Inter", ui-sans-serif, system-ui, sans-serif;
+}
+
+@layer base {
+  body {
+    @apply font-sans;
+  }
+}
+
+/* Custom Sudoku Grid Styles */
+.sudoku-grid-line-v {
+  @apply border-r-2 border-white/20;
+}
+
+.sudoku-grid-line-h {
+  @apply border-b-2 border-white/20;
+}

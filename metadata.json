@@ -1,0 +1,6 @@
+{
+  "name": "Sudoku Master",
+  "description": "A polished 9x9 Sudoku game with 5 difficulty levels, timer, mistakes tracking, and hints.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
